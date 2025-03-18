@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! </br> My name is Ajay Lokhande <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India 
+<h2 align="center">Hi 👋! </br> My name is Coder Pranay <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India 
 
 </h2>
 
@@ -87,22 +87,22 @@
 
 
 <div align="center">
-  <a href="mailto:lokhandeajay455@gmail.com" target="_blank">
+  <a href="mailto:tajanepranay16@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
-  <a href="http://www.linkedin.com/in/%20ajay-lokhande-23394831a" target="_blank">
+  <a href="http://www.linkedin.com/in/pranaytajane16" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/ajay_lokhande.455/" target="_blank">
+  <a href="https://www.instagram.com/pranay_tajane_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/7499385295" target="_blank">
+  <a href="https://wa.me/9142936999" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
   </a>
   <a href="https://x.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
-  <a href="https://leetcode.com/u/ajay_lokhande455/" target="_blank">
+  <a href="https://leetcode.com/u/PranayTajane/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
   </a>
   
